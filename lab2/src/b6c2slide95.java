@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class b6slide95 {
+public class b6c2slide95 {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
         int n;
