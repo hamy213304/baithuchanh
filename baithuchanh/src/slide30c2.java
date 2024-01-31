@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Nhapn {
+public class slide30c2 {
     public static void main(String[] args) {
         int n,i,Tong=0;
         Scanner sc = new Scanner(System.in);

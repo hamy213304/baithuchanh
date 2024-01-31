@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sonhonhat {
+public class slide35c2 {
     public static void main(String[] args) {
         int so1,so2,min;
         Scanner sc = new Scanner(System.in);
