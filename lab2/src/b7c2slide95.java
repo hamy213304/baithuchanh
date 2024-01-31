@@ -3,7 +3,5 @@ public class b7c2slide95 {
         int i;
         System.out.println("20 so nguyen duong dau tien la: ");
         for (i=1;i<=20;i++)
-        {
-            System.out.println(i);
-    }
+        {System.out.println(i);}
 }}
