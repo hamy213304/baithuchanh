@@ -13,9 +13,7 @@ public class b12c2slide97 {
         for (int i=0; i<d; i++){
             for (int j=0; j<c; j++){
                 System.out.println("A[" +i+"]["+j+"]=");  
-                A[i][j]=sc.nextInt();
-            }
-        }
+                A[i][j]=sc.nextInt();}}
         max =A[0][0];
         for (int i=0; i<d; i++){
          for (int j=0; j<c; j++){

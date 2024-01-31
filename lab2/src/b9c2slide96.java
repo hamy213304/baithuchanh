@@ -19,7 +19,6 @@ public class b9c2slide96 {
         System.out.println("So ky tu hoa trong chuoi la: " + kytuhoa);
         System.out.println("So chu so trong chuoi la: " + chuso);
         sc.close();
-
     }
 }
 

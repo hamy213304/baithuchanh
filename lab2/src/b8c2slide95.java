@@ -6,8 +6,7 @@ public class b8c2slide95 {
         double tong=0;
         Scanner sc = new Scanner(System.in);
         do{System.out.print("So luong so nguyen duong trong day la: ");
-        n=sc.nextInt();
-        }while(n<0);
+        n=sc.nextInt(); }while(n<0);
         int A[]=new int[n];
         for (int i=0;i<n;i++)
         {       System.out.println("So nguyen duong thu "+i+" la: ");
