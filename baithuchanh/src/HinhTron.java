@@ -8,18 +8,13 @@ public class HinhTron {
    public void nhapR() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap ban kinh: ");
-        R = sc.nextFloat();
-    }
+        R = sc.nextFloat();}
     public void tinhcv(){
-        cv = 2*pi*R;
-    }
+        cv = 2*pi*R;}
     public void tinhdt(){
-        dt = pi*R*R;
-    }
+        dt = pi*R*R;}
     public void incv(){
-        System.out.print("Chu vi =" +cv);
-    }
+        System.out.print("Chu vi =" +cv);}
     public void indt(){
-        System.out.print("\nDien tich =" +dt);
-    }
+        System.out.print("\nDien tich =" +dt);}
 }
