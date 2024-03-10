@@ -15,7 +15,7 @@ public class c3slide79 {
         if loainv = "fulltime" {
             if chucvu = "linh"{
             luong = 10000000;}
-           else (chucvu = "sep"){
+           else if chucvu = "sep"{
             luong = 20000000;}}
         System.out.println("Nhap so ngay lam: ");
         soNgayLam = sc.nextInt();
