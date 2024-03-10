@@ -1,3 +1,4 @@
+package btchuong3.HinhHoc;
 import java.util.Scanner;
 
 public class HinhTron {

@@ -1,3 +1,4 @@
+package btchuong2;
 public class slide55c2 {
     public static void main(String[] args) {
     int i;

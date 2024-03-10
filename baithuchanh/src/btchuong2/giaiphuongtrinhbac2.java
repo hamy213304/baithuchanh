@@ -1,3 +1,4 @@
+package btchuong2;
 import java.util.Scanner;
 
 public class giaiphuongtrinhbac2 {
