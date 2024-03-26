@@ -1,4 +1,5 @@
-package btchuong3.HinhHoc;
+package btchuong3.Kethua;
+
 public class MainClass {
     public static void main(String[] args) {
         HinhTron2 htron = new HinhTron2();

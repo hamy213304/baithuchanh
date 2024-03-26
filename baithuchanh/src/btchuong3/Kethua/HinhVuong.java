@@ -1,4 +1,4 @@
-package btchuong3.HinhHoc;
+package btchuong3.Kethua;
 
 import java.util.Scanner;
 
