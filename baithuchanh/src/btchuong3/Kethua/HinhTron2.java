@@ -20,5 +20,6 @@ public class HinhTron2 extends HinhHoc{
     }
     public void xuatThongTin(){
         System.out.println("Day la hinh tron");
+        
     }
 }

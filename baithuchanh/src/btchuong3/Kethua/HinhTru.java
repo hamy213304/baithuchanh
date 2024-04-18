@@ -19,4 +19,5 @@ public class HinhTru extends HinhTron2 {
     public void tinhTheTich(){
         theTich= pi*banKinh*banKinh*chieuCao;
     }
+    
 }

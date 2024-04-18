@@ -30,5 +30,6 @@ public class MainClass {
         HinhTru htru = new HinhTru();
         ht.xuatThongTin();
         htru.xuatThongTin();
+        
     }   
 }
