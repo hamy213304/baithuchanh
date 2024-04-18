@@ -3,6 +3,10 @@ package btchuong3.Kethua;
 import java.util.Scanner;
 
 public class HinhTru extends HinhTron2 {
+    @Override
+    public void xuatThongTin(){
+        System.out.println("Day la hinh tru");
+    }
     public float chieuCao;
     public HinhTru(){
         ten = "Hinh Tru";
