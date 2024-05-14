@@ -18,5 +18,4 @@ public class HinhHoc {
     public void inTheTich(){
         System.out.print("\nThe tich cua hinh = "+theTich);
     }
-
 }

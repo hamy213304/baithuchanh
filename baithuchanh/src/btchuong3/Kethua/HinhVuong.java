@@ -9,6 +9,6 @@ public class HinhVuong extends HinhChuNhat{
     public void nhapCanh(){
         System.out.print("\nNhap canh:");
         Scanner sc = new Scanner(System.in);
-        dai= rong= sc.nextFloat();
+         dai= rong= sc.nextFloat();
     }
 }

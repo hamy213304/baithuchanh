@@ -19,7 +19,6 @@ public class HinhTron2 extends HinhHoc{
         dienTich= pi*banKinh*banKinh;
     }
     public void xuatThongTin(){
-        System.out.println("Day la hinh tron");
-        
+        System.out.println("Day la hinh tron"); 
     }
 }
