@@ -6,9 +6,9 @@ public class b5c2slide94 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap lan luot cac so nguyen: ");
          do{   System.out.println("So nguyen: ");
-          i = sc.nextInt();
-          tong +=i; }
-     while(tong<100);
+            i = sc.nextInt();
+            tong +=i; }
+        while(tong<100);
          {System.out.print("Tong cac so nguyen vua nhap = " + tong);
          sc.close();}
         }

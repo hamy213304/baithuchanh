@@ -32,6 +32,7 @@ public class b4c2slide94 {
             case 12: System.out.print("Thang 12");
             break;
             default: System.out.print("So thang khong hop le");
+            
         sc.close();
         }
     }

@@ -12,7 +12,7 @@ public class b3c2slide93 {
         tuoi = 2024 - namsinh;
         if (tuoi<16) System.out.println("Ban "+ten+" o do tuoi vi thanh nien");
         else if (tuoi >=16 && tuoi <18) System.out.println("Ban "+ten+" o do tuoi truong thanh");
-       else if (tuoi >=18) System.out.println("Ban "+ten+" da gia");
-       sc.close();
+        else if (tuoi >=18) System.out.println("Ban "+ten+" da gia");
+        sc.close();
     }
 }
