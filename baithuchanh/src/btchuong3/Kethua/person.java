@@ -29,6 +29,7 @@ public class person {
         System.out.print("\nMa nhan vien: "+manv);
         System.out.print("\nTuoi: "+tuoi);
     }
+    
 }
     
     

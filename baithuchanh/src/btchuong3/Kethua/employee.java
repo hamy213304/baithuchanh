@@ -19,5 +19,6 @@ public class employee extends person {
     }
     public void inLuong(){
         System.out.print("\nLuong: " +luong);
+        
 }
 }

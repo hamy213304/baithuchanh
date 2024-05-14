@@ -7,5 +7,6 @@ public class fulltime extends employee{
     public int tinhLuong(){
         luong=time*luongft;
         return luong;
+        
     }
 }

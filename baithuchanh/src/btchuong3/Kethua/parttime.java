@@ -25,4 +25,5 @@ public class parttime extends employee{
         nv2.tinhLuong();
         nv2.xuatTT();
         nv2.inLuong();
-}}
+}
+}
