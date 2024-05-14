@@ -17,5 +17,5 @@ public class nhanvien {
         System.out.println("Loai nhan vien: "+ loaiNhanVien());
         System.out.println("Luong: "+luong);
     }   
-    }
+}
 

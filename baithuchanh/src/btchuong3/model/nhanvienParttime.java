@@ -14,5 +14,6 @@ public class nhanvienParttime extends nhanvien {
     }
     public void tinhLuong(){
         luong = Configs.LUONG_NHAN_VIEN_PART_TIME_MOI_GIO*gioLamViec;
+        
     }
 }

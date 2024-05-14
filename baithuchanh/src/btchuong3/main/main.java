@@ -20,5 +20,6 @@ public class main {
         linh1.xuatThongTin();
         linh2.xuatThongTin();
         thoivu.xuatThongTin();
+        
     }
 }
