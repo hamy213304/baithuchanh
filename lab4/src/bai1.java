@@ -28,7 +28,7 @@ public class bai1 {
         System.out.println("Ban muon xoa gia tri nao? ");
         xoa = sc.nextInt();
         if (al.contains(xoa)) {
-            al.removeIf(t->t.equals(xoa));
+            al.removeIf(t->t.equals(xoa));//xoa theo dieu kien
             System.out.println("List sau khi xoa gia tri "+xoa);
             System.out.println(al);
         } else {System.out.println("Gia tri ban muon xoa khong ton tai");}
@@ -38,5 +38,6 @@ public class bai1 {
         System.out.println("List sau khi sap xep giam dan: ");
         al.sort(Comparator.reverseOrder());
         System.out.println(al);
-    }
+        sc.close();
+        }
 }
