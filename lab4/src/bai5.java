@@ -31,7 +31,9 @@ public class bai5 {
         System.out.println("Nhap ten lop can tim: ");
         String timlop = sc.nextLine();
         for(SinhVien sv:dssv.values()){
-            if(sv.lop.equalsIgnoreCase(timlop)){System.out.println("Sinh vien hoc lop "+timlop+": "+sv.hoten);}
+            if(sv.lop.equalsIgnoreCase(timlop)){
+                System.out.println("Sinh vien hoc lop "+timlop+": "+sv.hoten);
+            }
         }
         System.out.println("Nhap ma sinh vien can tim: ");
         int timMasv = sc.nextInt();
@@ -40,6 +42,7 @@ public class bai5 {
             System.out.println("Ho va ten sinh vien: "+found.hoten);
             System.out.println("Lop: "+found.lop);
         }else {System.out.println("Khong tim thay sinh vien co ma sinh vien "+timMasv);}
+       
         sc.close();
     }
 }
