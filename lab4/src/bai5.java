@@ -41,8 +41,7 @@ public class bai5 {
             SinhVien found = dssv.get(timMasv);
             System.out.println("Ho va ten sinh vien: "+found.hoten);
             System.out.println("Lop: "+found.lop);
-        }else {System.out.println("Khong tim thay sinh vien co ma sinh vien "+timMasv);}
-       
+        }else {System.out.println("Khong tim thay sinh vien co ma sinh vien "+timMasv);} 
         sc.close();
     }
 }
