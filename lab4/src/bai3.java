@@ -8,7 +8,6 @@ class SV{
         this.ten = ten;
         this.diem = diem;
     }
-
 }
 public class bai3 {
     public static void main(String[] args) {
