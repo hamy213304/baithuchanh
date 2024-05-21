@@ -22,7 +22,7 @@ public class bai3 {
         System.out.println("Nhap diem cua sinh vien "+ten);
         int diem = sc.nextInt();
         sc.nextLine();
-        SV tt = new SV(ten, 0);
+        SV tt = new SV(ten,diem);
         dsSV.add(tt);}
         int TL = 0;
         for(SV svien:dsSV){
