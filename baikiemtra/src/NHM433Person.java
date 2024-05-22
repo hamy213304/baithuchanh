@@ -1,10 +1,10 @@
+import java.util.LinkedList;
 import java.util.Scanner;
 
 public class NHM433Person {
-    public static void main(String[] args) {
-    String hoten;
-    int masv;
-    double diem;
+    public String hoten;
+    public int masv;
+    public double diem;
     Scanner sc = new Scanner(System.in);
     public void nhapTT[]{
         System.out.println("Yeu cau: nhap cac thong tin sau");
@@ -23,4 +23,3 @@ public class NHM433Person {
     
     }
     
-}
