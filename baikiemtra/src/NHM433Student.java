@@ -9,10 +9,12 @@ public class NHM433Student extends NHM433Person {
         System.out.println("Nhap diem: ");
         diem = sc.nextDouble();
     }
+    @Override
     public void xuatTT(){
         System.out.println("Ho va ten: "+hoten);
         System.out.println("Ma sinh vien: "+masv);
         System.out.println("Diem: "+diem);
     }
+    public void 
 
 }
