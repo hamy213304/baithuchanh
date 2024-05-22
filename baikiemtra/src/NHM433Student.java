@@ -15,6 +15,5 @@ public class NHM433Student extends NHM433Person {
         System.out.println("Ma sinh vien: "+masv);
         System.out.println("Diem: "+diem);
     }
-    public void 
 
 }
